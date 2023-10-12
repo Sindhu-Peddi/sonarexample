@@ -6,6 +6,7 @@ public class abcdf {
 		// TODO Auto-generated method stub
 		public String a;
 		System.err.println(a);
+		System.out.println("tttt");
 	}
 
 }
